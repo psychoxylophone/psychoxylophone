@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm T
 
-<!--
-**psychoxylophone/psychoxylophone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my "non-work" GitHub for side projects and half-finished ideas.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Fullstack by day, hardware hacker by night
+- Builds apps with **Node.js**, **Vue**, and **PHP**
+- Mostly tinkers with **ESP32** and embedded systems
+- Daily drives **Arch Linux**
+- Into **home automation** and self-hosting
+- Runs a small **home datacenter**
+- Owns a few 3D printers and loves modding them
+- Starts too many projects to finish — it's a feature, not a bug
+- Speaks **English** and **German**
